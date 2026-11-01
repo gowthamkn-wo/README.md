@@ -1,0 +1,30 @@
+# Smart Customer Support Chatbot
+
+Project Overview
+The Smart Customer Support Chatbot is an AI-powered chatbot designed to answer customer questions automatically and provide quick support.
+
+ Features
+- Automated customer query responses
+- 24/7 customer support
+- User-friendly chat interface
+- Instant responses
+- Reduces manual customer support workload
+
+Technologies Used
+- Python
+- HTML
+- CSS
+- JavaScript
+- AI / NLP
+
+ Installation
+1. Clone this repository.
+2. Install the required dependencies.
+3. Run the application.
+4. Open the chatbot in your browser.
+
+ Project Purpose
+This project demonstrates chatbot development, customer interaction automation, and problem-solving skills.
+
+ Author
+Gowtham KN
